@@ -1,0 +1,12 @@
+#bodyyy{
+    background-color:#991f1f;
+}
+.forms{
+    text-align: center;
+}
+button[type="submit"]{
+    font-size: larger;
+    background-color: black;
+    color: white;
+    padding: 6px;
+}

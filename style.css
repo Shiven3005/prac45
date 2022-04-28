@@ -1,0 +1,126 @@
+#ohmslogo{
+    display: inline;
+    position: relative;
+}
+.header{
+    display: inline-block;
+    scroll-margin-top: 10px;
+}
+h1{
+    display: inline;
+    margin-right: 20px;
+    text-align: justify;
+}
+#yellow{
+    color: #ddd483;
+}
+#wholeh2{
+    text-align: center;
+    margin-top: 70px;
+}
+h3{
+    display: inline;
+    margin-right: 2px;
+    line-height: 40px;
+}
+#yellowh4{
+    color: #ddd483;
+}
+h3{
+    display: inline;
+    margin-right: 7px;
+
+}
+#pavbhaji{
+    color: #ddd483;
+    margin-right: 150px;
+    margin-left: 110px;
+    
+}
+#foodname{
+    margin-top: 10px;
+}
+.header{
+    margin-top: 10px;
+}
+.column {
+    float: left;
+    width: 20%;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 130px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .name {
+    display: inline-block;
+}
+#going-feedback:hover{
+    color: #ddd483;
+}
+#speciality:hover{
+    color: aqua;
+}
+#bodyy{
+    background-color: #991f1f;
+}
+
+#yellow3{
+    color: #ddd483;
+    text-align: justify;
+}
+#food{
+    margin-right: 20px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+#foodpics{
+    text-align: center;
+    display:flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 80px;
+
+}
+
+h4{
+    display: inline;
+    font-weight: bolder;
+    margin-right: 10px;
+    text-align: center;
+    
+}
+#manymore{
+    text-align: center;
+    margin-top: 50px;
+}
+#delivery{
+    text-align-last: right;
+}
+.feedbacksection{
+    border-top: 2px solid #ddd483;
+    display: block;
+    
+
+}
+.feedbacksection input{
+    margin-bottom: 5px;
+}
+button[type="submit"]{
+    font-size: larger;
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+#name{
+    display: block;
+}
+#arrow{
+    text-align-last: auto;
+}    

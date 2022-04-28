@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+}
+#body-header{
+    height: 70vh;
+    opacity: 0.8;
+    background-image: url(laptopic.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: justify;
+}
+.horizontal-list{
+    list-style: none;
+    padding-left: 0px;
+}
+.horizontal-list li{
+    display: inline-block;
+    margin:0px 50px 8px 0px;
+}
+.horizontal-list li a{
+    text-decoration: none;
+    color: white;
+    transition: color 1s, border-bottom 4s;
+}
+.horizontal-list li a:hover{
+    color: lightslategray;
+    border-bottom: 1px solid white;
+}
+.text-center{
+    text-align: center;
+}
+#myname{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.name-social-container li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+.name-social-container li a img:hover{
+    box-shadow: 0px 0px 6px 4px lightslategray;
+}
+#about{
+    height: auto;
+    width:100%;
+    position: relative;
+    
+}
+#my-image{
+    height: 15rem;
+    width: 15rem;
+    margin: auto;
+    margin-top: -100px;
+    
+}
+#my-image img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 6px 4px lightslategray;
+}
